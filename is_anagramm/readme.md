@@ -3,3 +3,4 @@
 
 anagram('finder', 'Friend')  --> true
 anagram('hello', 'bye') --> false
+anagram('hello', 'hi') --> false
