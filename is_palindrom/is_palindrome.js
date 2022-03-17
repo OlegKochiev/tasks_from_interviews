@@ -4,3 +4,4 @@ function isPalindrome(str) {
 }
 
 console.log(isPalindrome('giggig2'));
+console.log(isPalindrome('giggiwer334'));
